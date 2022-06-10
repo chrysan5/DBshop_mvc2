@@ -59,7 +59,10 @@
       font-weight: bold;
       border: 1px solid skyblue;
    }
-   
+   a{
+   	  text-decoration-line: none;
+   	  color: black;
+   }
 </style>
 </head>
 <body>

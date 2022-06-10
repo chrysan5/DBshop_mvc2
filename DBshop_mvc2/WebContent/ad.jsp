@@ -11,4 +11,4 @@
 	      }
 </style>
 
- 	<div class="floating"> <img alt="ad" src="img/ad.jpg"> </div>
+<div class="floating"> <img alt="ad" src="img/ad.jpg"> </div>
